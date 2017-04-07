@@ -1,6 +1,6 @@
-# handsome <small>2.1</small>
+# Handsome Theme <small>2.1</small>
 
-> A magical documentation site generator.
+如少年般，迎风而立。
 
 
 
