@@ -31,3 +31,5 @@ thumb自定义字段在每篇文章底下填写。名称填：`thumb`，值
 <div class="lblue">这是浅蓝色的短代码框，用于显示一些信息。调用代码为 <strong>&lt;div class="lblue"&gt;输入文字&lt;/div&gt;</strong><br><br></div>
 
 <div class="green">这是绿色的短代码框，显示一些推荐信息。调用代码为 <strong>&lt;div class="green"&gt;输入文字&lt;/div&gt;</strong><br><br></div>
+
+<img src="https://cdn.ihewro.com/img/shortcode.png" />
