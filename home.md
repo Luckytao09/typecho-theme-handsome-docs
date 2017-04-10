@@ -19,7 +19,7 @@ All kinds of contributions (enhancements, new features, documentation & code imp
 
 All code licensed under the [GPL-3.0 License](https://github.com/ihewro/typecho-theme-handsome/blob/master/LICENSE). In other words you can use or modify the code freely but you can not use it for business purposes.
 
-## [开发日志 Changelog](https://github.com/ihewro/typecho-theme-handsome/wiki/ChangeLog-%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97) 
+## [开发日志 Changelog](/changelog) 
 
 [![author](https://img.shields.io/badge/author-Hewro-blue.svg?style=flat-square)](http://www.ihewro.xyz) 
 [![GitHub issues](https://img.shields.io/github/issues/ihewro/typecho-theme-handsome.svg?style=flat-square)](https://github.com/ihewro/typecho-theme-handsome/issues)

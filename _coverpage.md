@@ -5,6 +5,6 @@
 
 
 [GitHub](https://github.com/ihewro/typecho-theme-handsome)
-[Get Started](?id=安装)
+[Get Started](/start)
 
 
