@@ -15,4 +15,5 @@
 	- [问题反馈](https://github.com/ihewro/typecho-theme-handsome/issues)
 	- [代码贡献](https://github.com/ihewro/typecho-theme-handsome/)
 	- [支持主题](https://www.ihewro.com/donate.html)
+	- [版权声明](/copyright)
 
