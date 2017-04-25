@@ -28,7 +28,7 @@ A：这儿有解决方法：[issues #5](https://github.com/ihewro/typecho-theme-
 
 #### 启用主题后，无法评论
 
-A：别着急，放轻松。点一下这个链接：[#评论系统](https://www.ihewro.com/archives/645/)
+A：别着急，放轻松。点一下这个链接：[#评论系统](/comment)
 
 
 
