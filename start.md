@@ -4,7 +4,7 @@
 
 2. 目录下有两个文件夹。`handsome`和`插件`。
 
-3. 上传`插件`下的所有文件夹typecho的`/usr/themes`目录下，上传完毕后可以删除`插件`文件夹。
+3. 上传`插件`下的所有文件至typecho的`/usr/plugins/`目录下，上传完毕后可以删除`插件`文件夹。
 
 4. 上传`handsome`文件夹至typecho的`/usr/themes`目录下。
 
