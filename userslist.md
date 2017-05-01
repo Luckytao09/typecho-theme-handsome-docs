@@ -1,5 +1,3 @@
-以下列表为使用handsome主题的小伙伴们
-
 (等待更新该部分内容……)
 
 | 名称                    | 网站                   |
@@ -9,8 +7,12 @@
 
 
 
-如果你也想**显示在该列表中**或者**不想展示在这儿**
+如果你也想 **显示在该列表中**或者**不想展示在这儿**
 
-可以fork[**typecho-theme-handsome-docs**](https://github.com/ihewro/typecho-theme-handsome-docs) 该项目，修改`userlist.md` 增加里的网站描述，提交pull request给我即可，我会手动合并。
+`fork`  [typecho-theme-handsome-docs](https://github.com/ihewro/typecho-theme-handsome-docs) 该项目
+
+修改`userlist.md`文件，在表格中增加你的博客信息。
+
+然后提交pull request给我即可，我会手动合并。
 
 或者，加入handsome主题交流群（611102614）@我。
