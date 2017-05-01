@@ -3,7 +3,7 @@
 	- [插件设置](/plugin)
     - [常见问题](/common-problem)
     - [后台外观设置](/setting)
-    - [使用者列表](/userlist)
+    - [使用者列表](/userslist)
 
 - 进阶设定
 	- [独立页面](/page)
