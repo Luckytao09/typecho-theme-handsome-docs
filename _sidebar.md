@@ -15,5 +15,5 @@
 	- [开发日志](/changelog)
 	- [问题反馈](/feedback)
 	- [代码贡献](/contributing)
-	- [支持主题](/donate)
+	- [捐赠主题](/donate)
 	- [版权声明](/copyright)
