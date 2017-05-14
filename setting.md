@@ -15,3 +15,9 @@
 * 只有在`on-mouseover-with-a-delay`模式下才会有效。
 * 代表了鼠标悬停在链接上一定时间才会预加载，避免误点导致额外的服务器资源开销。
 * 官方推荐在50——100之间的整数。
+
+### DNS预解析
+
+DNS prefetching通过指定具体的URL来告知客户端未来会用到相关的资源，告诉客户端可以尽早的解析DNS。
+
+更多详细信息，[请戳这个](https://www.linpx.com/p/small-practice-of-prefetching-dns.html)
