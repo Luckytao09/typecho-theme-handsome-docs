@@ -4,5 +4,5 @@
 
 
 
-[GitHub](https://github.com/ihewro/typecho-theme-handsome)
-[Get Started](/start)
+[联系作者](https://ihewro.com/)
+[开始使用](/start)

@@ -8,3 +8,5 @@
 ### 侧边栏的标签云
 
 需要在新建文章的页面右侧填写标签，才会在首页侧边栏输出的。(回车添加当前标签)
+
+![tagcloud](https://cdn.ihewro.com/img/tag.png)
