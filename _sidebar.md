@@ -9,12 +9,12 @@
 	- [独立页面](/page)
 	- [评论系统](/comment)
 	- [增强功能](/functions)
+	- [图标列表](/icons)
 	- [多语言设置](/i18n)
+	- [自定义栏目](/customize)
 	- [更多设置](/others)
 
 - 其他说明
 	- [开发日志](/changelog)
 	- [问题反馈](/feedback)
-	- [代码贡献](/contributing)
-	- [捐赠主题](/donate)
 	- [版权声明](/copyright)
