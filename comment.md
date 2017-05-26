@@ -8,8 +8,8 @@
 ![使用typecho原生评论][1]
 
 
-  [1]: https://www.ihewro.com/usr/uploads/2017/03/343938553.jpg
+[1]: https://www.ihewro.com/usr/uploads/2017/03/343938553.jpg
 
 ### 使用第三方评论系统
 
-在主题的——编辑当前外观——comments.php 删掉里面所有内容，增加第三方评论系统的代码。
+找到主题目录下的component/comments.php ，删掉里面所有内容，增加第三方评论系统的代码。（不推荐）

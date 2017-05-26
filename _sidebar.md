@@ -11,6 +11,7 @@
 	- [图标列表](/icons)
 	- [多语言设置](/i18n)
 	- [自定义栏目](/customize)
+	- [主题增强包](/enhancedPackage)
 	- [更多设置](/others)
 
 - 其他说明
