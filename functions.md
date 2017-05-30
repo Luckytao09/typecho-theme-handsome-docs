@@ -33,3 +33,7 @@ thumb自定义字段在每篇文章底下填写。名称填：`thumb`，值
 <div class="green">这是绿色的短代码框，显示一些推荐信息。调用代码为 <strong>&lt;div class="green"&gt;输入文字&lt;/div&gt;</strong><br><br></div>
 
 <img src="https://cdn.ihewro.com/img/shortcode.png" />
+
+### 日期显示为xx天前
+
+后台选择`设置——评论——评论日期格式` 内填写`natural`。
