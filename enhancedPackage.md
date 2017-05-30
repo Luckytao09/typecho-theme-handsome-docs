@@ -25,3 +25,22 @@
 ![photos](https://cdn.ihewro.com/img/photos.png)
 
 > 如何修改照片数据？
+
+图片存储在`user`文件夹下
+
+打开`data.json`文件，模仿下面的格式，添加新的一行即可。
+
+```json
+[
+  {
+    "link": "./user/1.jpg",
+    "h2": "大鱼海棠",
+    "pTag": "大鱼海棠宣传图片"
+  },
+  {
+    "link": "./user/2.jpg",
+    "h2": "童年时光",
+    "pTag": "童年时光"
+  }
+]
+```
