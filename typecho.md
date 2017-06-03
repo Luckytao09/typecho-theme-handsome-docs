@@ -4,10 +4,6 @@
 
 ### 有哪些好用的编辑器？
 
-1. Markdown 编辑器 Editor.md for Typecho ，
+1. Editor.md for Typecho ：Markdown 编辑器 ，主要是支持markdown语法的：https://github.com/DT27/EditorMD
 
-主要是支持markdown语法的：https://github.com/DT27/EditorMD
-
-2. UEditor-for-Typecho
-
-这款是html编辑器，适合新手用，简单方便，功能强大。https://github.com/chanshengzhi/UEditor-for-Typecho
+2. UEditor-for-Typecho：这款是html编辑器，适合新手用，简单方便，功能强大。https://github.com/chanshengzhi/UEditor-for-Typecho
