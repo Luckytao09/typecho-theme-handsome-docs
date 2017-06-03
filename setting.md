@@ -29,3 +29,16 @@
 DNS prefetching通过指定具体的URL来告知客户端未来会用到相关的资源，告诉客户端可以尽早的解析DNS。
 
 更多详细信息，[请戳这个](https://www.linpx.com/p/small-practice-of-prefetching-dns.html)
+
+### 首页文章摘要
+
+ 默认显示文章的前200字作为摘要，你还可以使用`摘要分隔符`进行自主截断内容输出
+```markdown
+<!--more-->
+```
+
+### 侧边栏的标签云
+
+需要在新建文章的页面右侧填写标签，才会在首页侧边栏输出的。(回车添加当前标签)
+
+![tagcloud](https://cdn.ihewro.com/img/tag.png)

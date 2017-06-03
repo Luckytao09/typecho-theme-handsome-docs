@@ -11,8 +11,8 @@
 	- [多语言设置](/i18n)
 	- [自定义栏目](/customize)
 	- [主题增强包](/enhancedPackage)
-	- [后台外观设置](/setting)
-	- [更多设置](/others)
+	- [评论表情](/emotion)
+	- [其他更多设置](/setting)
 	- [typecho相关](/typecho)
 
 - 其他说明
