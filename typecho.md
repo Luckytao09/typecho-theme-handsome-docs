@@ -7,3 +7,5 @@
 1. Editor.md for Typecho：Markdown 编辑器，主要是支持markdown语法的。https://github.com/DT27/EditorMD
 
 2. UEditor-for-Typecho：这款是html编辑器，适合新手用，简单方便，功能强大。https://github.com/chanshengzhi/UEditor-for-Typecho
+
+3. MyEditor:MyEditor是一款采用TinyMCE核心，支持切换编辑器、插入图片的Typecho编辑器插件。http://mytypecho.com/post-myeditor.html
