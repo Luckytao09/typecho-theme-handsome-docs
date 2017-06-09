@@ -7,8 +7,7 @@
 7. 基于 Flatkit 框架
 8. 感谢hran大大提供的付费主题，没有hran的帮助，也就没有handsome后来的改进
 9. 网易云音乐歌单展示页面由biji.io提供
-10. 画廊页面由viosey.com设计
-11. 评论表情功能引用项目[owo](https://github.com/DIYgod/OwO)
+10. 评论表情功能引用项目[owo](https://github.com/DIYgod/OwO)
 
 感谢所有提出建设性建议的小伙伴们！
 感谢本项目引用的项目作者的贡献！
