@@ -11,9 +11,9 @@
 
 一般有两种方法：
 
-下载后，覆盖/usr/themes/handsome/目录即可。
+* 下载后，覆盖/usr/themes/handsome/目录即可。
 
-先删除/usr/themes/handsome/目录中的内容，然后新主题中的内容复制到/usr/themes/handsome/目录。（推荐√）
+* 先删除/usr/themes/handsome/目录中的内容，然后新主题中的内容复制到/usr/themes/handsome/目录。（推荐√）
 
 
 **\* 注意** 每次更新会有更新提示，会提示是否有必要删除旧版本的主题文件夹。
