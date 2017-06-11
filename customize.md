@@ -53,7 +53,7 @@
 
 默认两个配置项中已经填好了内容：
 
-1. 时光机社交按钮配置
+> 时光机社交按钮配置
 
 ```json
 {"name":"twitter","class":"fa fa-twitter","link":"#"},
@@ -64,7 +64,7 @@
 
 【注释】：`status`：为`single`时特指绿色按钮，不填则指上面并排的小按钮。
 
-2. 时光机联系方式配置
+> 时光机联系方式配置
 
 ```json
 {"name":"email","img":"https://ww4.sinaimg.cn/large/a15b4afegy1fg2pmtjbaej201s01s0aw","value":"你的邮箱地址","link":"#"},

@@ -15,4 +15,4 @@
 
 1. [CommentToMail](http://typecho.byends.com/post/CommentToMail-v2-0-0.html):老牌的typecho评论通知插件，可是很多小伙伴们说后台怎么配置都无法发信，韩红听了都想打人，我用的可以。
 
-2. [CommentMailPlus](https://github.com/oott123/CommentMailPlus)：如果上面的插件用不了，试一下这个吧，据说好多小伙伴们都成功了！
+2. [CommentMailPlus](https://github.com/oott123/CommentMailPlus)：如果上面的插件用不了，试一下这个吧，据说好多小伙伴们都成功了！详细使用方法：[使用CommentMailPlus插件实现typecho评论邮件通知功能](https://www.ihewro.com/archives/684/)
