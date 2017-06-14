@@ -4,8 +4,8 @@
 4. 主题cross自定义模板代码来自 breeze主题by闪闪的星
 5. 主题内置的播放器代码修改自youduBGM
 6. 短代码css样式来自DNSHH主题
-7. 基于 Flatkit 框架
-8. 感谢hran大大提供的付费主题，没有hran的帮助，也就没有handsome后来的改进
+7. 主题基于 [Flatkit](https://themeforest.net/item/flatkit-app-ui-kit/13231484?s_rank=4) 框架 和[Angulr](https://themeforest.net/item/angulr-bootstrap-admin-web-app-with-angularjs/8437259?s_rank=7) 后台框架制作而成。 
+8. 主题多语言包功能核心代码来着hran的[mirages](https://hran.me/archives/mirages-intro.html)主题
 9. 网易云音乐歌单展示页面由biji.io提供
 10. 评论表情功能引用项目[owo](https://github.com/DIYgod/OwO)
 
