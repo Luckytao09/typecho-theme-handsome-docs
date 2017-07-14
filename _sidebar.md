@@ -7,12 +7,12 @@
 	- [独立页面](/page)
 	- [评论系统](/comment)
 	- [增强功能](/functions)
-	- [图标列表](/icons)
 	- [多语言设置](/i18n)
 	- [自定义栏目](/customize)
 	- [主题增强包](/enhancedPackage)
 	- [评论表情](/emotion)
-	- [其他更多设置](/setting)
+	- [后台更多设置](/setting)
+	- [图标列表](/icons)
 	- [typecho相关](/typecho)
 
 - 其他说明

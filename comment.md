@@ -19,4 +19,4 @@ A：推荐[SmartSpam](https://handsome.ihewro.com/#/typecho)
 
 ### 使用第三方评论系统
 
-找到主题目录下的component/comments.php ，删掉里面所有内容，增加第三方评论系统的代码。（不推荐）
+找到主题目录下的component/comments.php ，删掉里面所有内容，增加第三方评论系统的代码。（不推荐，第三方评论不仅不稳定，而且不一定与主题的pjax兼容，如果不兼容，请在后台外观设置中关闭pjax！）
