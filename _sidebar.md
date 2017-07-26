@@ -1,5 +1,5 @@
 - 开始使用
-	- [安装与更新](/start)
+	- [快速开始](/start)
 	- [插件设置](/plugin)
     - [常见问题](/common-problem)
 
