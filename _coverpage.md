@@ -4,5 +4,5 @@
 
 
 
-[联系作者](https://ihewro.com/)
+[联系作者](https://www.ihewro.com/)
 [开始使用](/start)
