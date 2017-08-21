@@ -1,6 +1,6 @@
 ### 博文头图
 
-![headerpic](https://cdn.ihewro.com/img/headerpic.png)
+![headerpic](https://ihewrocdn.b0.upaiyun.com/img/headerpic.png)
 
 指的是**首页**、**文章页面 和 每篇文章顶部的图片**，在后台的外观设置中可以设置显示头图的方式。
 
@@ -40,7 +40,7 @@ thumb自定义字段在每篇文章底下填写。名称填：`thumb`，值
 
 <div class="green">这是绿色的短代码框，显示一些推荐信息。调用代码为 <strong>&lt;div class="green"&gt;输入文字&lt;/div&gt;</strong><br><br></div>
 
-<img src="https://cdn.ihewro.com/img/shortcode.png" />
+<img src="https://ihewrocdn.b0.upaiyun.com/img/shortcode.png" />
 
 ### 日期显示为xx天前
 

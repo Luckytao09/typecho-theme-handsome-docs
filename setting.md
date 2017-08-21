@@ -18,7 +18,7 @@
 
 ### 七牛镜像存储
 
-![qiniu](https://cdn.ihewro.com/img/qiniui.png)
+![qiniu](https://ihewrocdn.b0.upaiyun.com/img/qiniui.png)
 
 左边填写的是你的博客的附件存放的地址，右边填写的是你的七牛空间地址。
 
@@ -41,4 +41,4 @@ DNS prefetching通过指定具体的URL来告知客户端未来会用到相关�
 
 需要在新建文章的页面右侧填写标签，才会在首页侧边栏输出的。(回车添加当前标签)
 
-![tagcloud](https://cdn.ihewro.com/img/tag.png)
+![tagcloud](https://ihewrocdn.b0.upaiyun.com/img/tag.png)

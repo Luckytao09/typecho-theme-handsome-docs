@@ -1,4 +1,4 @@
-# Handsome Theme <small>3.2 Pro</small>
+# Handsome Theme <small>3.3 Pro</small>
 
 如少年般，迎风而立。
 

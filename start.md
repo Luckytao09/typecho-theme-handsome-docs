@@ -6,6 +6,7 @@
 * 启用插件和主题。
 * `主题增强包`完全独立于主题，一般上传至服务器的根目录下即可。（为第三方开发，版权信息见[版权申明](/copyright),使用方法见[主题增强包](/enhancedPackage)）
 
+<p class="tip">正常使用主题前，请务必按照links插件。</br>正常使用主题评论功能，请务必按照[#评论系统](/comment) 进行设置！</p>
 
 ## 更新主题
 
@@ -19,7 +20,7 @@
 
 > 如何简单备份后台外观设置的数据？
 
-![backupdata](https://cdn.ihewro.com/img/backup.png)
+![backupdata](https://ihewrocdn.b0.upaiyun.com/img/backup.png)
 
 1. 先按照上面的截图方法备份数据
 2. 更新后，将备份的数据复制到更新后的主题外观设置中

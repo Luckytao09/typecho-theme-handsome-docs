@@ -7,7 +7,7 @@
 
 修改/添加这些栏目 无需修改主题源码，也不推荐修改主题源码（不利于升级），直接通过后台的外观设置简单配置。
 
-![customize](https://cdn.ihewro.com/img/customise.png)
+![customize](https://ihewrocdn.b0.upaiyun.com/img/customise.png)
 
 配置中可以实现两个功能：
 * 添加自定义栏目/按钮

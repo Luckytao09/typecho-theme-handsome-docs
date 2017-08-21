@@ -4,7 +4,7 @@
 
 ### 网易云音乐歌单展示
 
-![netease](https://cdn.ihewro.com/img/netease.png)
+![netease](https://ihewrocdn.b0.upaiyun.com/img/netease.png)
 
 > 如何修改歌单数据？
 
@@ -25,7 +25,7 @@
 
 ### 画廊相册
 
-![photos](https://cdn.ihewro.com/img/photos.png)
+![photos](https://ihewrocdn.b0.upaiyun.com/img/photos.png)
 
 > 如何修改照片数据？
 

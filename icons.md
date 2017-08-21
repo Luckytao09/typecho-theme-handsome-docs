@@ -5,7 +5,7 @@
 
 #### 主题内置的iconfont图标
 
-![iconfont](https://cdn.ihewro.com/img/iconfont.png)
+![iconfont](https://ihewrocdn.b0.upaiyun.com/img/iconfont.png)
 
 #### bootcss自带的Glyphicons字体图标
 
