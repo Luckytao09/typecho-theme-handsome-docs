@@ -30,6 +30,7 @@ thumb自定义字段在每篇文章底下填写。名称填：`thumb`，值
 
 ** \* 2.1.0及以上版本新增功能**
 
+```html
 <div class="share">这是灰色的短代码框，常用来引用资料什么的，调用代码为 <strong>&lt;div class="share"&gt;输入文字&lt;/div&gt;</strong><br><br></div>
 
 <div class="yellow">这是黄色的短代码框，常用来做提示，引起读者注意。调用代码为 <strong>&lt;div class="yellow"&gt;输入文字&lt;/div&gt;</strong><br><br></div>
@@ -39,8 +40,10 @@ thumb自定义字段在每篇文章底下填写。名称填：`thumb`，值
 <div class="lblue">这是浅蓝色的短代码框，用于显示一些信息。调用代码为 <strong>&lt;div class="lblue"&gt;输入文字&lt;/div&gt;</strong><br><br></div>
 
 <div class="green">这是绿色的短代码框，显示一些推荐信息。调用代码为 <strong>&lt;div class="green"&gt;输入文字&lt;/div&gt;</strong><br><br></div>
+```
 
 <img src="https://ihewrocdn.b0.upaiyun.com/img/shortcode.png" />
+
 
 ### 日期显示为xx天前
 
@@ -58,3 +61,11 @@ thumb自定义字段在每篇文章底下填写。名称填：`thumb`，值
 ```html
 <img max src="">
 ```
+
+### 文章内部分隐藏回复可见
+
+在文章使用使用
+```html
+[hide][/hide]
+```
+标签包裹住你想要隐藏的内容，游客必须先回复后才能查看隐藏内容。
