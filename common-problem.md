@@ -47,6 +47,8 @@ for (var i = 0; i < APlayers.length; i++) {
 for(var i = 0; i < audios.length; i++) {if(audios[i]){audios[i].pause()}};
 ```
 
+<div class ="tip">至对[FaithPatrick/APlayer-Typecho-Plugin](https://github.com/FaithPatrick/APlayer-Typecho-Plugin)该版本的Aplayer插件有效，其他修改的APlayer版本可能无效！</div>
+
 
 #### 启用主题后，无法评论
 
