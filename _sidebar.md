@@ -1,6 +1,6 @@
 - 开始使用
 	- [快速开始](/start)
-	- [插件设置](/plugin)
+	- [友链设置](/plugin)
     - [常见问题](/common-problem)
 
 - 进阶设定
