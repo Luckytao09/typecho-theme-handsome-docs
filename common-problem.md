@@ -29,8 +29,23 @@ A：后台 `设置——评论——在评论中使用Markdown语法(选中)`
 
 #### 使用Aplayer播放器插件报错
 
-A：这儿有解决方法：[issues #5](https://github.com/ihewro/typecho-theme-handsome/issues/5)
-
+A：
+在`自定义 JS`中添加这段js
+```javascript
+if (!window.audios) {
+    audios = [];
+    for (var i = 0; i < APlayers.length; i++) {
+        audios[i] = APlayers[i].audio;
+    }
+}
+```
+在`instantclick回调函数`中填写
+```javascript
+for (var i = 0; i < APlayers.length; i++) {
+      audios.push(APlayers[i].audio);
+}
+for(var i = 0; i < audios.length; i++) {if(audios[i]){audios[i].pause()}};
+```
 
 
 #### 启用主题后，无法评论
