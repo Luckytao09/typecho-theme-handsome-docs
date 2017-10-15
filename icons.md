@@ -6,7 +6,9 @@
 
 **bootcss自带的Glyphicons字体图标：** 详细见[Glyphicons 字体图标](http://v3.bootcss.com/components/#glyphicons)
 
-**主题引用的font-awesome图标：** 详细见[fontawesomev4.7图标](http://fontawesome.io/icons/)
+**主题内置的font-awesome图标：** ![](https://ws4.sinaimg.cn/large/006tNc79ly1fkiqvxfo2mj31kw0gv105.jpg)
+
+
 
 ## 使用方法
 
