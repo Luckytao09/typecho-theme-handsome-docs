@@ -7,10 +7,6 @@ A：依次检查主题文件夹名称是否为`handsome`——是否已经安装
 
 A：需要新建“时光机”独立页面，具体方法见[独立页面](/page)
 
-## 使用搜索功能，显示404页面
-
-A：v3.1暂时需要开启伪静态，才能正常使用。v3.2会对此进行优化，请谅解。
-
 ## 评论区不能斗图不能显示图片/说说不能显示图片
 
 A：后台 `设置——评论——允许使用的HTML标签和属性` 里面添加html标签
@@ -26,29 +22,6 @@ A：后台 `设置——评论——在评论中使用Markdown语法(选中)`
 <blockquote><pre><code><strong><em><h5><h6><a href title><table><thead><tr><th><tbody><td>
 ```
 
-
-## 使用Aplayer播放器插件报错
-
-A：
-在`自定义 JS`中添加这段js
-```javascript
-if (!window.audios) {
-    audios = [];
-    for (var i = 0; i < APlayers.length; i++) {
-        audios[i] = APlayers[i].audio;
-    }
-}
-```
-在`instantclick回调函数`中填写
-```javascript
-for (var i = 0; i < APlayers.length; i++) {
-      audios.push(APlayers[i].audio);
-}
-for(var i = 0; i < audios.length; i++) {if(audios[i]){audios[i].pause()}};
-```
-
-
-<p class="tip">只对[FaithPatrick/APlayer-Typecho-Plugin](https://github.com/FaithPatrick/APlayer-Typecho-Plugin)该版本的Aplayer插件有效，其他修改的APlayer版本可能无效！</p>
 
 
 
